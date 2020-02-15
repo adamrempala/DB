@@ -1,0 +1,1840 @@
+{
+  "statuses": [
+    {
+      "created_at": "Mon Dec 09 10:38:08 +0000 2019",
+      "id": 1203987183520145400,
+      "id_str": "1203987183520145408",
+      "text": "@zawodsedzia @PrawdaFutbolu A jak pan widzi sytuację w polu karnym z Gvilia kopnietym przed strzałem w łydkę?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203799010454077400,
+      "in_reply_to_status_id_str": "1203799010454077440",
+      "in_reply_to_user_id": 1035120213438685200,
+      "in_reply_to_user_id_str": "1035120213438685185",
+      "in_reply_to_screen_name": "zawodsedzia",
+      "user": {
+        "id": 825776505317945300,
+        "id_str": "825776505317945344",
+        "name": "Wojtek Surówa",
+        "screen_name": "srwk44",
+        "location": "Gorlice/Naaldwijk",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 49,
+        "friends_count": 185,
+        "listed_count": 0,
+        "created_at": "Sun Jan 29 18:43:55 +0000 2017",
+        "favourites_count": 13524,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2309,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827088707429752832/X_6VXeCL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827088707429752832/X_6VXeCL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/825776505317945344/1549576163",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:31:05 +0000 2019",
+      "id": 1203985409384099800,
+      "id_str": "1203985409384099846",
+      "text": "@przekamil @zawodsedzia @Pawel41012456 @PrawdaFutbolu \"niektórzy widzą co chca widzieć\". Z drugiej strony Gvilia po… https://t.co/bLpxpA0JaP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "przekamil",
+            "name": "Kamil Przesmycki",
+            "id": 1471785265,
+            "id_str": "1471785265",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              11,
+              23
+            ]
+          },
+          {
+            "screen_name": "Pawel41012456",
+            "name": "Paweł 1916",
+            "id": 1008668060843216900,
+            "id_str": "1008668060843216896",
+            "indices": [
+              24,
+              38
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              39,
+              53
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bLpxpA0JaP",
+            "expanded_url": "https://twitter.com/i/web/status/1203985409384099846",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203983249950871600,
+      "in_reply_to_status_id_str": "1203983249950871552",
+      "in_reply_to_user_id": 1471785265,
+      "in_reply_to_user_id_str": "1471785265",
+      "in_reply_to_screen_name": "przekamil",
+      "user": {
+        "id": 2907749896,
+        "id_str": "2907749896",
+        "name": "fake konto",
+        "screen_name": "fakekonto999",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 15,
+        "friends_count": 165,
+        "listed_count": 0,
+        "created_at": "Sat Dec 06 13:14:50 +0000 2014",
+        "favourites_count": 966,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 950,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191361593998807040/ZKHvV0uo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191361593998807040/ZKHvV0uo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:29:50 +0000 2019",
+      "id": 1203985096707104800,
+      "id_str": "1203985096707104772",
+      "text": "@zawodsedzia @KoltonRoman @PrawdaFutbolu Mam pytanie, bo sam nie wiem ogladajac mecz w TV. Byl karny na Araku w mec… https://t.co/sGl5KN6IzU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              26,
+              40
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sGl5KN6IzU",
+            "expanded_url": "https://twitter.com/i/web/status/1203985096707104772",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203799010454077400,
+      "in_reply_to_status_id_str": "1203799010454077440",
+      "in_reply_to_user_id": 1035120213438685200,
+      "in_reply_to_user_id_str": "1035120213438685185",
+      "in_reply_to_screen_name": "zawodsedzia",
+      "user": {
+        "id": 1002996667723984900,
+        "id_str": "1002996667723984896",
+        "name": "SerwusWMG",
+        "screen_name": "SerwusW",
+        "location": "Gdańsk, Polska",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 49,
+        "listed_count": 0,
+        "created_at": "Sat Jun 02 19:33:35 +0000 2018",
+        "favourites_count": 806,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 595,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:22:30 +0000 2019",
+      "id": 1203983249950871600,
+      "id_str": "1203983249950871552",
+      "text": "@zawodsedzia @Pawel41012456 @fakekonto999 @PrawdaFutbolu Na prawdę nie widzicie, że przed oddaniem strzału, Gwilia… https://t.co/Wu3DIdydtf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "Pawel41012456",
+            "name": "Paweł 1916",
+            "id": 1008668060843216900,
+            "id_str": "1008668060843216896",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "fakekonto999",
+            "name": "fake konto",
+            "id": 2907749896,
+            "id_str": "2907749896",
+            "indices": [
+              28,
+              41
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              42,
+              56
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Wu3DIdydtf",
+            "expanded_url": "https://twitter.com/i/web/status/1203983249950871552",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203945822246695000,
+      "in_reply_to_status_id_str": "1203945822246694913",
+      "in_reply_to_user_id": 1035120213438685200,
+      "in_reply_to_user_id_str": "1035120213438685185",
+      "in_reply_to_screen_name": "zawodsedzia",
+      "user": {
+        "id": 1471785265,
+        "id_str": "1471785265",
+        "name": "Kamil Przesmycki",
+        "screen_name": "przekamil",
+        "location": "Białystok, Polska",
+        "description": "Jaga🇵🇱  Real Madrid🇪🇸",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 228,
+        "friends_count": 628,
+        "listed_count": 0,
+        "created_at": "Fri May 31 09:42:32 +0000 2013",
+        "favourites_count": 11242,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5377,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151508216083300352/D_b-AsYS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151508216083300352/D_b-AsYS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471785265/1571228636",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:07:46 +0000 2019",
+      "id": 1203979542408372200,
+      "id_str": "1203979542408372225",
+      "text": "@zawodsedzia @PrawdaFutbolu Właśnie od razu mówiłem, że to jest karny i Kopacz druga żółta.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203799010454077400,
+      "in_reply_to_status_id_str": "1203799010454077440",
+      "in_reply_to_user_id": 1035120213438685200,
+      "in_reply_to_user_id_str": "1035120213438685185",
+      "in_reply_to_screen_name": "zawodsedzia",
+      "user": {
+        "id": 1136377902,
+        "id_str": "1136377902",
+        "name": "Szymon Góralski",
+        "screen_name": "huralinho",
+        "location": "",
+        "description": "Piłka nożna i hokej na lodzie",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 152,
+        "friends_count": 151,
+        "listed_count": 0,
+        "created_at": "Thu Jan 31 08:18:58 +0000 2013",
+        "favourites_count": 4720,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10746,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1091839659234263046/cqQwVsK9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091839659234263046/cqQwVsK9_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:06:03 +0000 2019",
+      "id": 1203979111246553000,
+      "id_str": "1203979111246553088",
+      "text": "@KoltonRoman @TomekHajto7 @PrawdaFutbolu Slalom zrozumiałem od pana komentatora z Niemiec⚽⚽",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "TomekHajto7",
+            "name": "Tomek Hajto",
+            "id": 1712540598,
+            "id_str": "1712540598",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              26,
+              40
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203680898832588800,
+      "in_reply_to_status_id_str": "1203680898832588802",
+      "in_reply_to_user_id": 472275856,
+      "in_reply_to_user_id_str": "472275856",
+      "in_reply_to_screen_name": "KoltonRoman",
+      "user": {
+        "id": 1042988842146455600,
+        "id_str": "1042988842146455553",
+        "name": "Grzegorz Babis",
+        "screen_name": "grzegorz_babis",
+        "location": "Kwidzyn, Polska",
+        "description": "Pro buk Player, Lechia Gdańsk,Arsenal F. C. Kibic każdego sportu oprócz woltyzerki i pływania synchronicznego😉",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 108,
+        "listed_count": 0,
+        "created_at": "Fri Sep 21 04:08:12 +0000 2018",
+        "favourites_count": 993,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 807,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1155506716416630784/5yNMOY8t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155506716416630784/5yNMOY8t_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:50:46 +0000 2019",
+      "id": 1203975262880309200,
+      "id_str": "1203975262880309248",
+      "text": "@przekamil @Szkapa9 @zawodsedzia @PrawdaFutbolu No tak, masz rację.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "przekamil",
+            "name": "Kamil Przesmycki",
+            "id": 1471785265,
+            "id_str": "1471785265",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "Szkapa9",
+            "name": "Szkapa_98240 🇵🇱💯",
+            "id": 1030159914205962200,
+            "id_str": "1030159914205962241",
+            "indices": [
+              11,
+              19
+            ]
+          },
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              20,
+              32
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              33,
+              47
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203968901626974200,
+      "in_reply_to_status_id_str": "1203968901626974208",
+      "in_reply_to_user_id": 1471785265,
+      "in_reply_to_user_id_str": "1471785265",
+      "in_reply_to_screen_name": "przekamil",
+      "user": {
+        "id": 3158150973,
+        "id_str": "3158150973",
+        "name": "Piotr Tokajuk",
+        "screen_name": "PiotrTokajuk",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 58,
+        "friends_count": 222,
+        "listed_count": 0,
+        "created_at": "Sun Apr 12 02:18:34 +0000 2015",
+        "favourites_count": 2499,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 531,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664566530798153728/orbUKmYY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664566530798153728/orbUKmYY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3158150973/1538580844",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:26:12 +0000 2019",
+      "id": 1203969081562607600,
+      "id_str": "1203969081562607617",
+      "text": "@kubacimoszko @zawodsedzia @KoltonRoman @PrawdaFutbolu Sędzia szybko wznowił. Wiec pewnie nawet nie analizowali",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kubacimoszko",
+            "name": "Kuba Cimoszko",
+            "id": 2656766596,
+            "id_str": "2656766596",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              14,
+              26
+            ]
+          },
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              27,
+              39
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              40,
+              54
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203941036067893200,
+      "in_reply_to_status_id_str": "1203941036067893249",
+      "in_reply_to_user_id": 2656766596,
+      "in_reply_to_user_id_str": "2656766596",
+      "in_reply_to_screen_name": "kubacimoszko",
+      "user": {
+        "id": 754051429246111700,
+        "id_str": "754051429246111744",
+        "name": "Michal",
+        "screen_name": "michal_jar",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 258,
+        "friends_count": 435,
+        "listed_count": 1,
+        "created_at": "Fri Jul 15 20:34:05 +0000 2016",
+        "favourites_count": 20543,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5416,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1183819612544262145/S9d7OP_X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183819612544262145/S9d7OP_X_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/754051429246111744/1568400518",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:25:29 +0000 2019",
+      "id": 1203968901626974200,
+      "id_str": "1203968901626974208",
+      "text": "@PiotrTokajuk @Szkapa9 @zawodsedzia @PrawdaFutbolu Przecież sytuacja nie była przy 0:3.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PiotrTokajuk",
+            "name": "Piotr Tokajuk",
+            "id": 3158150973,
+            "id_str": "3158150973",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Szkapa9",
+            "name": "Szkapa_98240 🇵🇱💯",
+            "id": 1030159914205962200,
+            "id_str": "1030159914205962241",
+            "indices": [
+              14,
+              22
+            ]
+          },
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              23,
+              35
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              36,
+              50
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203967871031926800,
+      "in_reply_to_status_id_str": "1203967871031926785",
+      "in_reply_to_user_id": 3158150973,
+      "in_reply_to_user_id_str": "3158150973",
+      "in_reply_to_screen_name": "PiotrTokajuk",
+      "user": {
+        "id": 1471785265,
+        "id_str": "1471785265",
+        "name": "Kamil Przesmycki",
+        "screen_name": "przekamil",
+        "location": "Białystok, Polska",
+        "description": "Jaga🇵🇱  Real Madrid🇪🇸",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 228,
+        "friends_count": 628,
+        "listed_count": 0,
+        "created_at": "Fri May 31 09:42:32 +0000 2013",
+        "favourites_count": 11242,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5377,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151508216083300352/D_b-AsYS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151508216083300352/D_b-AsYS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471785265/1571228636",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:24:06 +0000 2019",
+      "id": 1203968553558274000,
+      "id_str": "1203968553558274048",
+      "text": "@tomi0871 @kubacimoszko @zawodsedzia @KoltonRoman @PrawdaFutbolu @Jagiellonia1920 Przestań, przecież to przypadek j… https://t.co/1RbiGIWcbN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tomi0871",
+            "name": "Tomasz KN",
+            "id": 1025170734,
+            "id_str": "1025170734",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "kubacimoszko",
+            "name": "Kuba Cimoszko",
+            "id": 2656766596,
+            "id_str": "2656766596",
+            "indices": [
+              10,
+              23
+            ]
+          },
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              24,
+              36
+            ]
+          },
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              37,
+              49
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              50,
+              64
+            ]
+          },
+          {
+            "screen_name": "Jagiellonia1920",
+            "name": "Jagiellonia",
+            "id": 385416177,
+            "id_str": "385416177",
+            "indices": [
+              65,
+              81
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1RbiGIWcbN",
+            "expanded_url": "https://twitter.com/i/web/status/1203968553558274048",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203942528669700000,
+      "in_reply_to_status_id_str": "1203942528669700101",
+      "in_reply_to_user_id": 1025170734,
+      "in_reply_to_user_id_str": "1025170734",
+      "in_reply_to_screen_name": "tomi0871",
+      "user": {
+        "id": 3158150973,
+        "id_str": "3158150973",
+        "name": "Piotr Tokajuk",
+        "screen_name": "PiotrTokajuk",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 58,
+        "friends_count": 222,
+        "listed_count": 0,
+        "created_at": "Sun Apr 12 02:18:34 +0000 2015",
+        "favourites_count": 2499,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 531,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664566530798153728/orbUKmYY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664566530798153728/orbUKmYY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3158150973/1538580844",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:21:23 +0000 2019",
+      "id": 1203967871031926800,
+      "id_str": "1203967871031926785",
+      "text": "@przekamil @Szkapa9 @zawodsedzia @PrawdaFutbolu No tak ale co innego 3:0 a co innego 0:1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "przekamil",
+            "name": "Kamil Przesmycki",
+            "id": 1471785265,
+            "id_str": "1471785265",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "Szkapa9",
+            "name": "Szkapa_98240 🇵🇱💯",
+            "id": 1030159914205962200,
+            "id_str": "1030159914205962241",
+            "indices": [
+              11,
+              19
+            ]
+          },
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              20,
+              32
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              33,
+              47
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203940826541416400,
+      "in_reply_to_status_id_str": "1203940826541416454",
+      "in_reply_to_user_id": 1471785265,
+      "in_reply_to_user_id_str": "1471785265",
+      "in_reply_to_screen_name": "przekamil",
+      "user": {
+        "id": 3158150973,
+        "id_str": "3158150973",
+        "name": "Piotr Tokajuk",
+        "screen_name": "PiotrTokajuk",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 58,
+        "friends_count": 222,
+        "listed_count": 0,
+        "created_at": "Sun Apr 12 02:18:34 +0000 2015",
+        "favourites_count": 2499,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 531,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/664566530798153728/orbUKmYY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/664566530798153728/orbUKmYY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3158150973/1538580844",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 08:57:25 +0000 2019",
+      "id": 1203961838125363200,
+      "id_str": "1203961838125363200",
+      "text": "@zawodsedzia @fakekonto999 @PrawdaFutbolu Dla mnie VAR powinien być przede wszystkim od tego, by pomagać przy takic… https://t.co/BKKaVCV8S1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "fakekonto999",
+            "name": "fake konto",
+            "id": 2907749896,
+            "id_str": "2907749896",
+            "indices": [
+              13,
+              26
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              27,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BKKaVCV8S1",
+            "expanded_url": "https://twitter.com/i/web/status/1203961838125363200",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1203957173287452700,
+      "in_reply_to_status_id_str": "1203957173287452672",
+      "in_reply_to_user_id": 1035120213438685200,
+      "in_reply_to_user_id_str": "1035120213438685185",
+      "in_reply_to_screen_name": "zawodsedzia",
+      "user": {
+        "id": 1008668060843216900,
+        "id_str": "1008668060843216896",
+        "name": "Paweł 1916",
+        "screen_name": "Pawel41012456",
+        "location": "Warszawa, Polska",
+        "description": "Kibic piłkarski, a przede wszystkim Legii od ponad 40 lat...",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 30,
+        "friends_count": 73,
+        "listed_count": 0,
+        "created_at": "Mon Jun 18 11:09:40 +0000 2018",
+        "favourites_count": 667,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4959,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152409128444321792/v5GZ_pyr_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152409128444321792/v5GZ_pyr_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008668060843216896/1563590893",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 08:38:53 +0000 2019",
+      "id": 1203957173287452700,
+      "id_str": "1203957173287452672",
+      "text": "@Pawel41012456 @fakekonto999 @PrawdaFutbolu Jak jest minimalny kontakt nawet to niestety VAR ma związane ręce, zwła… https://t.co/oF5PRul0H8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Pawel41012456",
+            "name": "Paweł 1916",
+            "id": 1008668060843216900,
+            "id_str": "1008668060843216896",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "fakekonto999",
+            "name": "fake konto",
+            "id": 2907749896,
+            "id_str": "2907749896",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              29,
+              43
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oF5PRul0H8",
+            "expanded_url": "https://twitter.com/i/web/status/1203957173287452672",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203954808752922600,
+      "in_reply_to_status_id_str": "1203954808752922624",
+      "in_reply_to_user_id": 1008668060843216900,
+      "in_reply_to_user_id_str": "1008668060843216896",
+      "in_reply_to_screen_name": "Pawel41012456",
+      "user": {
+        "id": 1035120213438685200,
+        "id_str": "1035120213438685185",
+        "name": "Łukasz Rogowski",
+        "screen_name": "zawodsedzia",
+        "location": "Bydgoszcz, Polska",
+        "description": "Sędzia piłkarski, pasjonat tego fachu i futbolu. Analizy kontrowersji, decyzji sędziów i nie tylko. Redaktor Zawód-Sędzia i @PrawdaFutbolu. Odkrywam świat kiwi!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3488,
+        "friends_count": 139,
+        "listed_count": 4,
+        "created_at": "Thu Aug 30 11:01:05 +0000 2018",
+        "favourites_count": 5317,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3504,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035120213438685185/1546611506",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 08:37:31 +0000 2019",
+      "id": 1203956830474342400,
+      "id_str": "1203956830474342400",
+      "text": "@Pawel41012456 @fakekonto999 @PrawdaFutbolu Napastnik wygrał pozycję i był na uprzywilejowanej pozycji. W takich pr… https://t.co/BOWw1bADZJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Pawel41012456",
+            "name": "Paweł 1916",
+            "id": 1008668060843216900,
+            "id_str": "1008668060843216896",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "fakekonto999",
+            "name": "fake konto",
+            "id": 2907749896,
+            "id_str": "2907749896",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              29,
+              43
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BOWw1bADZJ",
+            "expanded_url": "https://twitter.com/i/web/status/1203956830474342400",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203946111897153500,
+      "in_reply_to_status_id_str": "1203946111897153537",
+      "in_reply_to_user_id": 1008668060843216900,
+      "in_reply_to_user_id_str": "1008668060843216896",
+      "in_reply_to_screen_name": "Pawel41012456",
+      "user": {
+        "id": 1035120213438685200,
+        "id_str": "1035120213438685185",
+        "name": "Łukasz Rogowski",
+        "screen_name": "zawodsedzia",
+        "location": "Bydgoszcz, Polska",
+        "description": "Sędzia piłkarski, pasjonat tego fachu i futbolu. Analizy kontrowersji, decyzji sędziów i nie tylko. Redaktor Zawód-Sędzia i @PrawdaFutbolu. Odkrywam świat kiwi!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3488,
+        "friends_count": 139,
+        "listed_count": 4,
+        "created_at": "Thu Aug 30 11:01:05 +0000 2018",
+        "favourites_count": 5317,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3504,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035120213438685185/1546611506",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 08:36:11 +0000 2019",
+      "id": 1203956496075313200,
+      "id_str": "1203956496075313152",
+      "text": "@Pawel41012456 @zawodsedzia @PrawdaFutbolu Ale Musiał go widział dokladnie😉gość, który był zawieszony za sedziowani… https://t.co/lPAaMjT5MX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Pawel41012456",
+            "name": "Paweł 1916",
+            "id": 1008668060843216900,
+            "id_str": "1008668060843216896",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              15,
+              27
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              28,
+              42
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lPAaMjT5MX",
+            "expanded_url": "https://twitter.com/i/web/status/1203956496075313152",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203954808752922600,
+      "in_reply_to_status_id_str": "1203954808752922624",
+      "in_reply_to_user_id": 1008668060843216900,
+      "in_reply_to_user_id_str": "1008668060843216896",
+      "in_reply_to_screen_name": "Pawel41012456",
+      "user": {
+        "id": 2907749896,
+        "id_str": "2907749896",
+        "name": "fake konto",
+        "screen_name": "fakekonto999",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 15,
+        "friends_count": 165,
+        "listed_count": 0,
+        "created_at": "Sat Dec 06 13:14:50 +0000 2014",
+        "favourites_count": 966,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 950,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191361593998807040/ZKHvV0uo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191361593998807040/ZKHvV0uo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.042,
+    "max_id": 1203987183520145400,
+    "max_id_str": "1203987183520145408",
+    "next_results": "?max_id=1203956496075313151&q=PrawdaFutbolu&include_entities=1",
+    "query": "PrawdaFutbolu",
+    "refresh_url": "?since_id=1203987183520145408&q=PrawdaFutbolu&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

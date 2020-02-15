@@ -1,0 +1,1973 @@
+{
+  "statuses": [
+    {
+      "created_at": "Fri Dec 20 08:48:09 +0000 2019",
+      "id": 1207945774790795300,
+      "id_str": "1207945774790795264",
+      "text": "@zawodsedzia @PrawdaFutbolu To widocznie czytaliśmy inne przepisy, oglądaliśmy inne klipy i inaczej tlumaczono na szkoleniach.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1207945368211603500,
+      "in_reply_to_status_id_str": "1207945368211603458",
+      "in_reply_to_user_id": 1035120213438685200,
+      "in_reply_to_user_id_str": "1035120213438685185",
+      "in_reply_to_screen_name": "zawodsedzia",
+      "user": {
+        "id": 1096781877497745400,
+        "id_str": "1096781877497745409",
+        "name": "precious_smeagol",
+        "screen_name": "Kris_Fedak",
+        "location": "",
+        "description": "pismak na przedwczesnej emeryturze l sędziowanie sprawia mi przyjemność l dwa razy prosto kopnąłem piłkę, wiec na sporcie się znam",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 90,
+        "listed_count": 0,
+        "created_at": "Sat Feb 16 14:42:31 +0000 2019",
+        "favourites_count": 398,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 115,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096783183406907392/A_aRMIel_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096783183406907392/A_aRMIel_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 08:47:11 +0000 2019",
+      "id": 1207945528752820200,
+      "id_str": "1207945528752820225",
+      "text": "@Bisialdo21 @PrawdaFutbolu Każdy spodziewa się wrzutki",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Bisialdo21",
+            "name": "Kamil",
+            "id": 949755220883624000,
+            "id_str": "949755220883623941",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1207788840934690800,
+      "in_reply_to_status_id_str": "1207788840934690817",
+      "in_reply_to_user_id": 949755220883624000,
+      "in_reply_to_user_id_str": "949755220883623941",
+      "in_reply_to_screen_name": "Bisialdo21",
+      "user": {
+        "id": 1035120213438685200,
+        "id_str": "1035120213438685185",
+        "name": "Łukasz Rogowski",
+        "screen_name": "zawodsedzia",
+        "location": "Bydgoszcz, Polska",
+        "description": "Sędzia piłkarski, pasjonat tego fachu i futbolu. Analizy kontrowersji, decyzji sędziów i nie tylko. Redaktor Zawód-Sędzia i @PrawdaFutbolu. Odkrywam świat kiwi!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3507,
+        "friends_count": 140,
+        "listed_count": 4,
+        "created_at": "Thu Aug 30 11:01:05 +0000 2018",
+        "favourites_count": 5383,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3570,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035120213438685185/1546611506",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 08:46:32 +0000 2019",
+      "id": 1207945368211603500,
+      "id_str": "1207945368211603458",
+      "text": "@Kris_Fedak @PrawdaFutbolu Nie zawsze :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Kris_Fedak",
+            "name": "precious_smeagol",
+            "id": 1096781877497745400,
+            "id_str": "1096781877497745409",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              12,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1207904640408391700,
+      "in_reply_to_status_id_str": "1207904640408391681",
+      "in_reply_to_user_id": 1096781877497745400,
+      "in_reply_to_user_id_str": "1096781877497745409",
+      "in_reply_to_screen_name": "Kris_Fedak",
+      "user": {
+        "id": 1035120213438685200,
+        "id_str": "1035120213438685185",
+        "name": "Łukasz Rogowski",
+        "screen_name": "zawodsedzia",
+        "location": "Bydgoszcz, Polska",
+        "description": "Sędzia piłkarski, pasjonat tego fachu i futbolu. Analizy kontrowersji, decyzji sędziów i nie tylko. Redaktor Zawód-Sędzia i @PrawdaFutbolu. Odkrywam świat kiwi!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3507,
+        "friends_count": 140,
+        "listed_count": 4,
+        "created_at": "Thu Aug 30 11:01:05 +0000 2018",
+        "favourites_count": 5383,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3570,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035120213438685185/1546611506",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 08:32:49 +0000 2019",
+      "id": 1207941915494236200,
+      "id_str": "1207941915494236160",
+      "text": "@M__Fijalkowski @MKSCracoviaSSA @_Ekstraklasa_ @PrawdaFutbolu https://t.co/8x7qkasO0I",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "M__Fijalkowski",
+            "name": "Michał Fijałkowski",
+            "id": 711524998415040500,
+            "id_str": "711524998415040512",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "MKSCracoviaSSA",
+            "name": "CRACOVIA",
+            "id": 93843267,
+            "id_str": "93843267",
+            "indices": [
+              16,
+              31
+            ]
+          },
+          {
+            "screen_name": "_Ekstraklasa_",
+            "name": "PKO BP Ekstraklasa",
+            "id": 2415691112,
+            "id_str": "2415691112",
+            "indices": [
+              32,
+              46
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              47,
+              61
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1207941902210916400,
+            "id_str": "1207941902210916352",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMN4wpaXYAAaLQq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMN4wpaXYAAaLQq.jpg",
+            "url": "https://t.co/8x7qkasO0I",
+            "display_url": "pic.twitter.com/8x7qkasO0I",
+            "expanded_url": "https://twitter.com/JanKowa22289468/status/1207941915494236160/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1080,
+                "h": 608,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 608,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1207941902210916400,
+            "id_str": "1207941902210916352",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMN4wpaXYAAaLQq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMN4wpaXYAAaLQq.jpg",
+            "url": "https://t.co/8x7qkasO0I",
+            "display_url": "pic.twitter.com/8x7qkasO0I",
+            "expanded_url": "https://twitter.com/JanKowa22289468/status/1207941915494236160/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1080,
+                "h": 608,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 608,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1207792787996979200,
+      "in_reply_to_status_id_str": "1207792787996979201",
+      "in_reply_to_user_id": 711524998415040500,
+      "in_reply_to_user_id_str": "711524998415040512",
+      "in_reply_to_screen_name": "M__Fijalkowski",
+      "user": {
+        "id": 949328629091192800,
+        "id_str": "949328629091192838",
+        "name": "Jan Kowalski",
+        "screen_name": "JanKowa22289468",
+        "location": "Polska",
+        "description": "Polak patriota.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 376,
+        "friends_count": 661,
+        "listed_count": 2,
+        "created_at": "Fri Jan 05 17:15:57 +0000 2018",
+        "favourites_count": 51826,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16517,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1054767197355159553/Ue4RxnPj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054767197355159553/Ue4RxnPj_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Fri Dec 20 07:43:11 +0000 2019",
+      "id": 1207929425238646800,
+      "id_str": "1207929425238646784",
+      "text": "@KoltonRoman @PrawdaFutbolu Na cale szczescie to koszmar miałeś. Do 2024 zostaje w LFC! 💥💪👏",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1207926552194900000,
+      "in_reply_to_status_id_str": "1207926552194899968",
+      "in_reply_to_user_id": 472275856,
+      "in_reply_to_user_id_str": "472275856",
+      "in_reply_to_screen_name": "KoltonRoman",
+      "user": {
+        "id": 898581795066826800,
+        "id_str": "898581795066826752",
+        "name": "Pawel Piech",
+        "screen_name": "PiechPawel",
+        "location": "Liverpool, England",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 15,
+        "listed_count": 0,
+        "created_at": "Fri Aug 18 16:26:09 +0000 2017",
+        "favourites_count": 206,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195608466611675137/ehzjjxYf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195608466611675137/ehzjjxYf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/898581795066826752/1573890380",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 07:40:51 +0000 2019",
+      "id": 1207928835142037500,
+      "id_str": "1207928835142037506",
+      "text": "RT @KoltonRoman: Jakby Go nie było, trzeba by Go wymyślić 😉⚽️😇 Juergen Klopp przedrzeźniający trenera Monterrey, Antonio Mohameda, który do…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 597426119,
+        "id_str": "597426119",
+        "name": "Michael Owen",
+        "screen_name": "LFCSteveG8",
+        "location": "",
+        "description": "Kibic LFC !",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 102,
+        "friends_count": 912,
+        "listed_count": 2,
+        "created_at": "Sat Jun 02 13:49:19 +0000 2012",
+        "favourites_count": 7505,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2974,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1193844348561039361/efT_lSND_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193844348561039361/efT_lSND_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/597426119/1571602711",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Dec 20 07:31:46 +0000 2019",
+        "id": 1207926552194900000,
+        "id_str": "1207926552194899968",
+        "text": "Jakby Go nie było, trzeba by Go wymyślić 😉⚽️😇 Juergen Klopp przedrzeźniający trenera Monterrey, Antonio Mohameda, k… https://t.co/Xn5ZJLsAmG",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/Xn5ZJLsAmG",
+              "expanded_url": "https://twitter.com/i/web/status/1207926552194899968",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 472275856,
+          "id_str": "472275856",
+          "name": "Roman Kołtoń",
+          "screen_name": "KoltonRoman",
+          "location": "Polska",
+          "description": "Dziennikarz, reporter i komentator Polsat Sport, kanał „Prawda Futbolu” na You Tube",
+          "url": "https://t.co/bgHehG8aby",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/bgHehG8aby",
+                  "expanded_url": "https://www.youtube.com/channel/UCWqWpkCENcewhasG98SGflg",
+                  "display_url": "youtube.com/channel/UCWqWp…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 341398,
+          "friends_count": 782,
+          "listed_count": 399,
+          "created_at": "Mon Jan 23 19:46:18 +0000 2012",
+          "favourites_count": 15404,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 19483,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/842081015648661510/9p830ZtG_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/842081015648661510/9p830ZtG_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/472275856/1404947666",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "c458763765cea500",
+          "url": "https://api.twitter.com/1.1/geo/id/c458763765cea500.json",
+          "place_type": "city",
+          "name": "Krakow",
+          "full_name": "Krakow, Poland",
+          "country_code": "PL",
+          "country": "Poland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  19.79343,
+                  49.967561
+                ],
+                [
+                  20.2179622,
+                  49.967561
+                ],
+                [
+                  20.2179622,
+                  50.124963
+                ],
+                [
+                  19.79343,
+                  50.124963
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 44,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 07:36:27 +0000 2019",
+      "id": 1207927730379120600,
+      "id_str": "1207927730379120640",
+      "text": "@KoltonRoman @PrawdaFutbolu Miałem sen.... ze przybył na Old Trafford 🙂",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1207926552194900000,
+      "in_reply_to_status_id_str": "1207926552194899968",
+      "in_reply_to_user_id": 472275856,
+      "in_reply_to_user_id_str": "472275856",
+      "in_reply_to_screen_name": "KoltonRoman",
+      "user": {
+        "id": 40084441,
+        "id_str": "40084441",
+        "name": "Mirek 🇵🇱🇳🇴",
+        "screen_name": "MirekfraBergen",
+        "location": "Bydzia/Bergen",
+        "description": "La garde meurt, mais elle ne se rend pas...                                     \nMireczek fra Bergen",
+        "url": "https://t.co/BhjPwirxxD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/BhjPwirxxD",
+                "expanded_url": "http://ivicapl.tumblr.com/",
+                "display_url": "ivicapl.tumblr.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3521,
+        "friends_count": 737,
+        "listed_count": 45,
+        "created_at": "Thu May 14 21:06:06 +0000 2009",
+        "favourites_count": 47653,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 87625,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1134930489024925696/7eTZFEkV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134930489024925696/7eTZFEkV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40084441/1515367342",
+        "profile_link_color": "0A297A",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "BFB8B9",
+        "profile_text_color": "1C1817",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 07:33:11 +0000 2019",
+      "id": 1207926906567438300,
+      "id_str": "1207926906567438337",
+      "text": "@KoltonRoman @PrawdaFutbolu Jutro jest mecz, czyli 21.12",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1207926552194900000,
+      "in_reply_to_status_id_str": "1207926552194899968",
+      "in_reply_to_user_id": 472275856,
+      "in_reply_to_user_id_str": "472275856",
+      "in_reply_to_screen_name": "KoltonRoman",
+      "user": {
+        "id": 866680771939094500,
+        "id_str": "866680771939094528",
+        "name": "Sheridan Bucket",
+        "screen_name": "P0P0LUP0",
+        "location": "",
+        "description": "⭐⭐⭐⭐⭐⭐",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 16,
+        "friends_count": 360,
+        "listed_count": 0,
+        "created_at": "Mon May 22 15:42:52 +0000 2017",
+        "favourites_count": 9244,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 460,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1207928370199179264/bMpNlMSR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207928370199179264/bMpNlMSR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/866680771939094528/1576827423",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 07:31:46 +0000 2019",
+      "id": 1207926552194900000,
+      "id_str": "1207926552194899968",
+      "text": "Jakby Go nie było, trzeba by Go wymyślić 😉⚽️😇 Juergen Klopp przedrzeźniający trenera Monterrey, Antonio Mohameda, k… https://t.co/Xn5ZJLsAmG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Xn5ZJLsAmG",
+            "expanded_url": "https://twitter.com/i/web/status/1207926552194899968",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 472275856,
+        "id_str": "472275856",
+        "name": "Roman Kołtoń",
+        "screen_name": "KoltonRoman",
+        "location": "Polska",
+        "description": "Dziennikarz, reporter i komentator Polsat Sport, kanał „Prawda Futbolu” na You Tube",
+        "url": "https://t.co/bgHehG8aby",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/bgHehG8aby",
+                "expanded_url": "https://www.youtube.com/channel/UCWqWpkCENcewhasG98SGflg",
+                "display_url": "youtube.com/channel/UCWqWp…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 341398,
+        "friends_count": 782,
+        "listed_count": 399,
+        "created_at": "Mon Jan 23 19:46:18 +0000 2012",
+        "favourites_count": 15404,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19483,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842081015648661510/9p830ZtG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842081015648661510/9p830ZtG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/472275856/1404947666",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "c458763765cea500",
+        "url": "https://api.twitter.com/1.1/geo/id/c458763765cea500.json",
+        "place_type": "city",
+        "name": "Krakow",
+        "full_name": "Krakow, Poland",
+        "country_code": "PL",
+        "country": "Poland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                19.79343,
+                49.967561
+              ],
+              [
+                20.2179622,
+                49.967561
+              ],
+              [
+                20.2179622,
+                50.124963
+              ],
+              [
+                19.79343,
+                50.124963
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 44,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 07:19:56 +0000 2019",
+      "id": 1207923571298885600,
+      "id_str": "1207923571298885634",
+      "text": "@zawodsedzia @PrawdaFutbolu Przecież ten przepis się akurat nie zmienił.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1207867356791197700,
+      "in_reply_to_status_id_str": "1207867356791197696",
+      "in_reply_to_user_id": 1035120213438685200,
+      "in_reply_to_user_id_str": "1035120213438685185",
+      "in_reply_to_screen_name": "zawodsedzia",
+      "user": {
+        "id": 2785268968,
+        "id_str": "2785268968",
+        "name": "PanWojciu",
+        "screen_name": "WojciuKucmaja",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 348,
+        "listed_count": 0,
+        "created_at": "Fri Sep 26 10:42:08 +0000 2014",
+        "favourites_count": 5768,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1123,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/689454382623031296/BJ2pP3jb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/689454382623031296/BJ2pP3jb_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 06:57:30 +0000 2019",
+      "id": 1207917926650667000,
+      "id_str": "1207917926650667008",
+      "text": "@zawodsedzia @PrawdaFutbolu Jak dla mnie ręki nie powinno być tylko jeśli mur stoi w polu karnym i chronią twarz. P… https://t.co/hNSzdntvsf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hNSzdntvsf",
+            "expanded_url": "https://twitter.com/i/web/status/1207917926650667008",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1207760286322585600,
+      "in_reply_to_status_id_str": "1207760286322585601",
+      "in_reply_to_user_id": 1035120213438685200,
+      "in_reply_to_user_id_str": "1035120213438685185",
+      "in_reply_to_screen_name": "zawodsedzia",
+      "user": {
+        "id": 3175198169,
+        "id_str": "3175198169",
+        "name": "Marcin Sobień",
+        "screen_name": "MSobien",
+        "location": "",
+        "description": "Zawodnik - #ekstrAklasy⚽🥅\nW wolnych chwilach student 🎓\nKibic - Lecha, Realu. \nFan - Premier League.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 19,
+        "friends_count": 127,
+        "listed_count": 0,
+        "created_at": "Fri Apr 17 05:41:23 +0000 2015",
+        "favourites_count": 4292,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 393,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1084156978128216064/lUfsFgKr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084156978128216064/lUfsFgKr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3175198169/1466001263",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "438772c453ae65a9",
+        "url": "https://api.twitter.com/1.1/geo/id/438772c453ae65a9.json",
+        "place_type": "city",
+        "name": "Jarosław",
+        "full_name": "Jarosław, Polska",
+        "country_code": "PL",
+        "country": "Poland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                22.6167785,
+                49.9936061
+              ],
+              [
+                22.7239859,
+                49.9936061
+              ],
+              [
+                22.7239859,
+                50.0867184
+              ],
+              [
+                22.6167785,
+                50.0867184
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 06:04:42 +0000 2019",
+      "id": 1207904640408391700,
+      "id_str": "1207904640408391681",
+      "text": "@zawodsedzia @PrawdaFutbolu Łukasz, końcówką tekstu sam sobie zaprzeczasz. Jeżeli wcześniej był kontrakt piłki z kl… https://t.co/S7BX2VGZMz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zawodsedzia",
+            "name": "Łukasz Rogowski",
+            "id": 1035120213438685200,
+            "id_str": "1035120213438685185",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/S7BX2VGZMz",
+            "expanded_url": "https://twitter.com/i/web/status/1207904640408391681",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1207760286322585600,
+      "in_reply_to_status_id_str": "1207760286322585601",
+      "in_reply_to_user_id": 1035120213438685200,
+      "in_reply_to_user_id_str": "1035120213438685185",
+      "in_reply_to_screen_name": "zawodsedzia",
+      "user": {
+        "id": 1096781877497745400,
+        "id_str": "1096781877497745409",
+        "name": "precious_smeagol",
+        "screen_name": "Kris_Fedak",
+        "location": "",
+        "description": "pismak na przedwczesnej emeryturze l sędziowanie sprawia mi przyjemność l dwa razy prosto kopnąłem piłkę, wiec na sporcie się znam",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 20,
+        "friends_count": 90,
+        "listed_count": 0,
+        "created_at": "Sat Feb 16 14:42:31 +0000 2019",
+        "favourites_count": 398,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 115,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096783183406907392/A_aRMIel_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096783183406907392/A_aRMIel_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 06:01:36 +0000 2019",
+      "id": 1207903859802280000,
+      "id_str": "1207903859802279936",
+      "text": "@KoltonRoman @Podolski10 @PrawdaFutbolu Roman sorry ale wydajesz się być z dnia na dzień coraz to glupszy.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "Podolski10",
+            "name": "Lukas-Podolski.com",
+            "id": 19596687,
+            "id_str": "19596687",
+            "indices": [
+              13,
+              24
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              25,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1207582852298268700,
+      "in_reply_to_status_id_str": "1207582852298268672",
+      "in_reply_to_user_id": 472275856,
+      "in_reply_to_user_id_str": "472275856",
+      "in_reply_to_screen_name": "KoltonRoman",
+      "user": {
+        "id": 907950409154793500,
+        "id_str": "907950409154793473",
+        "name": "hateinpeace",
+        "screen_name": "choosethis777",
+        "location": "",
+        "description": "@🥇",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7,
+        "friends_count": 27,
+        "listed_count": 0,
+        "created_at": "Wed Sep 13 12:53:41 +0000 2017",
+        "favourites_count": 242,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 220,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1200454427624321031/XTq3ndIG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200454427624321031/XTq3ndIG_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 04:29:04 +0000 2019",
+      "id": 1207880571705340000,
+      "id_str": "1207880571705339904",
+      "text": "RT @KoltonRoman: Łukasz Podolski pożegnał w mediach społecznościowych Babcię Zofię: „Każdy wie, jak byliśmy blisko. Byłem szczególnie dumny…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KoltonRoman",
+            "name": "Roman Kołtoń",
+            "id": 472275856,
+            "id_str": "472275856",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1190483455727063000,
+        "id_str": "1190483455727063040",
+        "name": "Janusz",
+        "screen_name": "Janusz09834643",
+        "location": "",
+        "description": "Wesoły",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 30,
+        "listed_count": 0,
+        "created_at": "Sat Nov 02 04:19:26 +0000 2019",
+        "favourites_count": 142,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 134,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191288936888492033/J2YVtS6j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191288936888492033/J2YVtS6j_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Dec 19 08:46:02 +0000 2019",
+        "id": 1207582852298268700,
+        "id_str": "1207582852298268672",
+        "text": "Łukasz Podolski pożegnał w mediach społecznościowych Babcię Zofię: „Każdy wie, jak byliśmy blisko. Byłem szczególni… https://t.co/EILA5WWW0q",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EILA5WWW0q",
+              "expanded_url": "https://twitter.com/i/web/status/1207582852298268672",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 472275856,
+          "id_str": "472275856",
+          "name": "Roman Kołtoń",
+          "screen_name": "KoltonRoman",
+          "location": "Polska",
+          "description": "Dziennikarz, reporter i komentator Polsat Sport, kanał „Prawda Futbolu” na You Tube",
+          "url": "https://t.co/bgHehG8aby",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/bgHehG8aby",
+                  "expanded_url": "https://www.youtube.com/channel/UCWqWpkCENcewhasG98SGflg",
+                  "display_url": "youtube.com/channel/UCWqWp…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 341398,
+          "friends_count": 782,
+          "listed_count": 399,
+          "created_at": "Mon Jan 23 19:46:18 +0000 2012",
+          "favourites_count": 15404,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 19483,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/842081015648661510/9p830ZtG_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/842081015648661510/9p830ZtG_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/472275856/1404947666",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 343,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Fri Dec 20 03:36:33 +0000 2019",
+      "id": 1207867356791197700,
+      "id_str": "1207867356791197696",
+      "text": "@WojciuKucmaja @PrawdaFutbolu Nowy sezon, nowe przepisy :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "WojciuKucmaja",
+            "name": "PanWojciu",
+            "id": 2785268968,
+            "id_str": "2785268968",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "PrawdaFutbolu",
+            "name": "Prawda Futbolu",
+            "id": 1080887303881609200,
+            "id_str": "1080887303881609216",
+            "indices": [
+              15,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1207776803441578000,
+      "in_reply_to_status_id_str": "1207776803441577984",
+      "in_reply_to_user_id": 2785268968,
+      "in_reply_to_user_id_str": "2785268968",
+      "in_reply_to_screen_name": "WojciuKucmaja",
+      "user": {
+        "id": 1035120213438685200,
+        "id_str": "1035120213438685185",
+        "name": "Łukasz Rogowski",
+        "screen_name": "zawodsedzia",
+        "location": "Bydgoszcz, Polska",
+        "description": "Sędzia piłkarski, pasjonat tego fachu i futbolu. Analizy kontrowersji, decyzji sędziów i nie tylko. Redaktor Zawód-Sędzia i @PrawdaFutbolu. Odkrywam świat kiwi!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3507,
+        "friends_count": 140,
+        "listed_count": 4,
+        "created_at": "Thu Aug 30 11:01:05 +0000 2018",
+        "favourites_count": 5383,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3570,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139664482135924736/nWNBu9sp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035120213438685185/1546611506",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.04,
+    "max_id": 1207945774790795300,
+    "max_id_str": "1207945774790795264",
+    "next_results": "?max_id=1207867356791197695&q=PrawdaFutbolu&include_entities=1",
+    "query": "PrawdaFutbolu",
+    "refresh_url": "?since_id=1207945774790795264&q=PrawdaFutbolu&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

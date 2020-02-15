@@ -1,0 +1,3082 @@
+{
+  "statuses": [
+    {
+      "created_at": "Mon Dec 09 11:00:20 +0000 2019",
+      "id": 1203992771448754200,
+      "id_str": "1203992771448754176",
+      "text": "Twórcy marki DSQUARED2: Polski rynek jest dla nas bardzo ważny. Cieszymy się, że możemy tu być… https://t.co/oJqnOf8zqO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oJqnOf8zqO",
+            "expanded_url": "https://twitter.com/i/web/status/1203992771448754176",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1934059866,
+        "id_str": "1934059866",
+        "name": "Newseria Lifestyle",
+        "screen_name": "NewseriaLifesty",
+        "location": "Warszawa",
+        "description": "NEWSERIA Lifestyle to multimedialna agencja informacyjna dostarczająca profesjonalne, bezpłatne materiały newsowe dla nadawców, dziennikarzy.",
+        "url": "http://t.co/m2iXloovME",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/m2iXloovME",
+                "expanded_url": "http://lifestyle.newseria.pl",
+                "display_url": "lifestyle.newseria.pl",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 243,
+        "friends_count": 113,
+        "listed_count": 35,
+        "created_at": "Fri Oct 04 12:14:33 +0000 2013",
+        "favourites_count": 6,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7565,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CC3366",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/465776530782552065/mGntK5AF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/465776530782552065/mGntK5AF_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934059866/1575543778",
+        "profile_link_color": "CC3366",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:58:32 +0000 2019",
+      "id": 1203992316660404200,
+      "id_str": "1203992316660404224",
+      "text": "RT @rozzadesign: Długie spódnice wieczorowe szyte na miarę od rozzadesign\n\nhttps://t.co/DUBYrO5UlB \n\n#rozzadesign #etsy #etsyshop #madeinPo…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "rozzadesign",
+            "indices": [
+              101,
+              113
+            ]
+          },
+          {
+            "text": "etsy",
+            "indices": [
+              114,
+              119
+            ]
+          },
+          {
+            "text": "etsyshop",
+            "indices": [
+              120,
+              129
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rozzadesign",
+            "name": "Monika Śledziak",
+            "id": 4149127997,
+            "id_str": "4149127997",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DUBYrO5UlB",
+            "expanded_url": "https://rozzadesign.blogspot.com/p/dugie-spodnice-wieczorowe-w-zakadki_28.html",
+            "display_url": "rozzadesign.blogspot.com/p/dugie-spodni…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4149127997,
+        "id_str": "4149127997",
+        "name": "Monika Śledziak",
+        "screen_name": "rozzadesign",
+        "location": "Poland, EU",
+        "description": "I create custom-made women's fashion\n\nhttps://t.co/BvUXld0Jw9",
+        "url": "https://t.co/pFPwXaayzG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pFPwXaayzG",
+                "expanded_url": "https://rozzadesign.blogspot.com",
+                "display_url": "rozzadesign.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/BvUXld0Jw9",
+                "expanded_url": "https://www.etsy.com/shop/rozzadesign",
+                "display_url": "etsy.com/shop/rozzadesi…",
+                "indices": [
+                  38,
+                  61
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2332,
+        "friends_count": 1666,
+        "listed_count": 41,
+        "created_at": "Mon Nov 09 12:38:44 +0000 2015",
+        "favourites_count": 4006,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38585,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/787981605327540224/ymdUuj4y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/787981605327540224/ymdUuj4y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4149127997/1521823189",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 09:00:46 +0000 2019",
+        "id": 1203962680094138400,
+        "id_str": "1203962680094138368",
+        "text": "Długie spódnice wieczorowe szyte na miarę od rozzadesign\n\nhttps://t.co/DUBYrO5UlB \n\n#rozzadesign #etsy #etsyshop… https://t.co/nQCmfxqgHv",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "rozzadesign",
+              "indices": [
+                84,
+                96
+              ]
+            },
+            {
+              "text": "etsy",
+              "indices": [
+                97,
+                102
+              ]
+            },
+            {
+              "text": "etsyshop",
+              "indices": [
+                103,
+                112
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/DUBYrO5UlB",
+              "expanded_url": "https://rozzadesign.blogspot.com/p/dugie-spodnice-wieczorowe-w-zakadki_28.html",
+              "display_url": "rozzadesign.blogspot.com/p/dugie-spodni…",
+              "indices": [
+                58,
+                81
+              ]
+            },
+            {
+              "url": "https://t.co/nQCmfxqgHv",
+              "expanded_url": "https://twitter.com/i/web/status/1203962680094138368",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                114,
+                137
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4149127997,
+          "id_str": "4149127997",
+          "name": "Monika Śledziak",
+          "screen_name": "rozzadesign",
+          "location": "Poland, EU",
+          "description": "I create custom-made women's fashion\n\nhttps://t.co/BvUXld0Jw9",
+          "url": "https://t.co/pFPwXaayzG",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/pFPwXaayzG",
+                  "expanded_url": "https://rozzadesign.blogspot.com",
+                  "display_url": "rozzadesign.blogspot.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/BvUXld0Jw9",
+                  "expanded_url": "https://www.etsy.com/shop/rozzadesign",
+                  "display_url": "etsy.com/shop/rozzadesi…",
+                  "indices": [
+                    38,
+                    61
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2332,
+          "friends_count": 1666,
+          "listed_count": 41,
+          "created_at": "Mon Nov 09 12:38:44 +0000 2015",
+          "favourites_count": 4006,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 38585,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/787981605327540224/ymdUuj4y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/787981605327540224/ymdUuj4y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4149127997/1521823189",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:58:03 +0000 2019",
+      "id": 1203992198934597600,
+      "id_str": "1203992198934597633",
+      "text": "RT @jozefmoneta: Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A przecież…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jozefmoneta",
+            "name": "jozefmoneta🇵🇱💯",
+            "id": 594795301,
+            "id_str": "594795301",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 789572456017190900,
+        "id_str": "789572456017190912",
+        "name": "Marek Kaletka",
+        "screen_name": "Marek_Kaletka",
+        "location": "Wrocław, Polska",
+        "description": "nadal ciekaw świata",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 958,
+        "friends_count": 1053,
+        "listed_count": 2,
+        "created_at": "Fri Oct 21 21:01:57 +0000 2016",
+        "favourites_count": 93442,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 36741,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1046060358652301312/YJYvZQRm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046060358652301312/YJYvZQRm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/789572456017190912/1486832886",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 08:51:20 +0000 2019",
+        "id": 1203960305719611400,
+        "id_str": "1203960305719611392",
+        "text": "Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A pr… https://t.co/EQYdbtREM6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EQYdbtREM6",
+              "expanded_url": "https://twitter.com/i/web/status/1203960305719611392",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 594795301,
+          "id_str": "594795301",
+          "name": "jozefmoneta🇵🇱💯",
+          "screen_name": "jozefmoneta",
+          "location": "",
+          "description": "Nie do wiary, jaki świat jest duży i jak z tego nic nie wynika.",
+          "url": "https://t.co/qBIzQwkmHL",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/qBIzQwkmHL",
+                  "expanded_url": "http://jozefmoneta.blogspot.com/p/akwarium.html",
+                  "display_url": "jozefmoneta.blogspot.com/p/akwarium.html",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 18682,
+          "friends_count": 1742,
+          "listed_count": 129,
+          "created_at": "Wed May 30 18:15:27 +0000 2012",
+          "favourites_count": 408433,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 420891,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F5F5",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/594795301/1547476088",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 53,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:55:01 +0000 2019",
+      "id": 1203991433616777200,
+      "id_str": "1203991433616777216",
+      "text": "RT @mikeluczak: Różnica pomiędzy przemyślanym designem a podążaniem za modą :D #design https://t.co/jB8ldHvbzg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "design",
+            "indices": [
+              79,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mikeluczak",
+            "name": "ᴍɪᴄʜᴀᴌ ᴌᴜᴄᴢᴀᴋ ⚡️✏️",
+            "id": 847421275,
+            "id_str": "847421275",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jB8ldHvbzg",
+            "expanded_url": "https://twitter.com/enn_nafnlaus/status/1203281103341195265",
+            "display_url": "twitter.com/enn_nafnlaus/s…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 199069412,
+        "id_str": "199069412",
+        "name": "Jerzy Bartoszewicz",
+        "screen_name": "AntaresPL",
+        "location": "Warsaw / Poland",
+        "description": "UX designer @ 10clouds / Freelance video games journalist after hours / SF, tech, retrowave, art, tattoo",
+        "url": "https://t.co/yRf0eeyraB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/yRf0eeyraB",
+                "expanded_url": "https://medium.com/@jerzybartoszewicz",
+                "display_url": "medium.com/@jerzybartosze…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 382,
+        "friends_count": 199,
+        "listed_count": 14,
+        "created_at": "Tue Oct 05 23:33:33 +0000 2010",
+        "favourites_count": 10158,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6703,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1017543906693734400/aGmiq4SJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017543906693734400/aGmiq4SJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/199069412/1392137710",
+        "profile_link_color": "008F8F",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 09:22:35 +0000 2019",
+        "id": 1203968173432856600,
+        "id_str": "1203968173432856576",
+        "text": "Różnica pomiędzy przemyślanym designem a podążaniem za modą :D #design https://t.co/jB8ldHvbzg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "design",
+              "indices": [
+                63,
+                70
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/jB8ldHvbzg",
+              "expanded_url": "https://twitter.com/enn_nafnlaus/status/1203281103341195265",
+              "display_url": "twitter.com/enn_nafnlaus/s…",
+              "indices": [
+                71,
+                94
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 847421275,
+          "id_str": "847421275",
+          "name": "ᴍɪᴄʜᴀᴌ ᴌᴜᴄᴢᴀᴋ ⚡️✏️",
+          "screen_name": "mikeluczak",
+          "location": "Łódź, Polska",
+          "description": "#Design #Wizard, #Gamer, #Geek.  Burdened with glorious purpose. \n⚡️Some-time gamer, some-time wizard, some-time pundit\n✏️All-time graphic designer",
+          "url": "https://t.co/aqm6m9qvXP",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/aqm6m9qvXP",
+                  "expanded_url": "http://dribbble.com/mikeluczak",
+                  "display_url": "dribbble.com/mikeluczak",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 899,
+          "friends_count": 739,
+          "listed_count": 51,
+          "created_at": "Wed Sep 26 13:33:54 +0000 2012",
+          "favourites_count": 30853,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 21253,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "3A1D59",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1115210355150655489/bc5KEVy5_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115210355150655489/bc5KEVy5_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/847421275/1506540220",
+          "profile_link_color": "644598",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1203281103341195300,
+        "quoted_status_id_str": "1203281103341195265",
+        "quoted_status": {
+          "created_at": "Sat Dec 07 11:52:25 +0000 2019",
+          "id": 1203281103341195300,
+          "id_str": "1203281103341195265",
+          "text": "Design Skill: A Comparison\n\nTesla: Cutout is sized for the cable to fit inside, sheltered, and follow its contours… https://t.co/RTnk8JpHWT",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/RTnk8JpHWT",
+                "expanded_url": "https://twitter.com/i/web/status/1203281103341195265",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "metadata": {
+            "iso_language_code": "pl",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 1153476318,
+            "id_str": "1153476318",
+            "name": "Nafnlaus",
+            "screen_name": "enn_nafnlaus",
+            "location": "Á klakanum",
+            "description": "Tyl hаmynkju eff thú ketur leѕyth tettа.",
+            "url": "https://t.co/SxBjZFWpPF",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/SxBjZFWpPF",
+                    "expanded_url": "http://atashi.eaku.net/",
+                    "display_url": "atashi.eaku.net",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 923,
+            "friends_count": 31,
+            "listed_count": 14,
+            "created_at": "Wed Feb 06 09:32:24 +0000 2013",
+            "favourites_count": 10224,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5709,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1183797956937506817/iDpp410G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183797956937506817/iDpp410G_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153476318/1571174715",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1935,
+          "favorite_count": 7943,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 1203281103341195300,
+      "quoted_status_id_str": "1203281103341195265",
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:35:09 +0000 2019",
+      "id": 1203986433968464000,
+      "id_str": "1203986433968463873",
+      "text": "RT @tvn24CnB: Własne pupile rodem z Afryki czy Azji mają najbogatsi i najpotężniejsi ludzie świata, ale moda na dzikość dotarła także do Po…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tvn24CnB",
+            "name": "Czarno na białym TVN24",
+            "id": 1037625006770085900,
+            "id_str": "1037625006770085889",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 949283462,
+        "id_str": "949283462",
+        "name": "Marek Zadęcki",
+        "screen_name": "MarekZadecki",
+        "location": "Rzeczypospolita Polska",
+        "description": "Świat jest teatrem a człowiek aktorem; Wchodzi na scenę i ze sceny schodzi;\r\nA życie ludzkie - scenicznym utworem (...)\r\nW. Shakesperae",
+        "url": "http://t.co/0GgPUhtqYg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/0GgPUhtqYg",
+                "expanded_url": "http://superzarobek.wordpress.com",
+                "display_url": "superzarobek.wordpress.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 90,
+        "friends_count": 86,
+        "listed_count": 1,
+        "created_at": "Thu Nov 15 08:03:45 +0000 2012",
+        "favourites_count": 89,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12926,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000561777047/8042bd5dca2d695254a9af56bfc990a7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000561777047/8042bd5dca2d695254a9af56bfc990a7_normal.jpeg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 09:11:49 +0000 2019",
+        "id": 1203965463744667600,
+        "id_str": "1203965463744667648",
+        "text": "Własne pupile rodem z Afryki czy Azji mają najbogatsi i najpotężniejsi ludzie świata, ale moda na dzikość dotarła t… https://t.co/VM50q9vxEz",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/VM50q9vxEz",
+              "expanded_url": "https://twitter.com/i/web/status/1203965463744667648",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1037625006770085900,
+          "id_str": "1037625006770085889",
+          "name": "Czarno na białym TVN24",
+          "screen_name": "tvn24CnB",
+          "location": "",
+          "description": "\"Czarno na Białym\" to program, w którym pokazujemy wydarzenia takimi, jakie są. Codziennie od poniedziałku do piątku o godz. 20:30 w @tvn24. Zapraszamy!",
+          "url": "https://t.co/FMBhdVPqHm",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/FMBhdVPqHm",
+                  "expanded_url": "https://www.tvn24.pl/czarno-na-bialym,42,m",
+                  "display_url": "tvn24.pl/czarno-na-bial…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2992,
+          "friends_count": 15,
+          "listed_count": 16,
+          "created_at": "Thu Sep 06 08:54:14 +0000 2018",
+          "favourites_count": 0,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 383,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1171043473161633792/jHBLCSDr_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171043473161633792/jHBLCSDr_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037625006770085889/1568032482",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:33:02 +0000 2019",
+      "id": 1203985901401104400,
+      "id_str": "1203985901401104385",
+      "text": "@winatuska1 Wróciła moda na kontusze i szlacheckie rozrabiactwo.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "winatuska1",
+            "name": "P@weł",
+            "id": 708417025312473100,
+            "id_str": "708417025312473088",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1203983064164118500,
+      "in_reply_to_status_id_str": "1203983064164118528",
+      "in_reply_to_user_id": 708417025312473100,
+      "in_reply_to_user_id_str": "708417025312473088",
+      "in_reply_to_screen_name": "winatuska1",
+      "user": {
+        "id": 947471130851467300,
+        "id_str": "947471130851467265",
+        "name": "CentralneObchody",
+        "screen_name": "CentralneO",
+        "location": "EU",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1476,
+        "friends_count": 1676,
+        "listed_count": 5,
+        "created_at": "Sun Dec 31 14:14:55 +0000 2017",
+        "favourites_count": 270804,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 39619,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151124725625708545/O9cqqJLc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151124725625708545/O9cqqJLc_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:18:17 +0000 2019",
+      "id": 1203982190708703200,
+      "id_str": "1203982190708703232",
+      "text": "RT @jozefmoneta: Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A przecież…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jozefmoneta",
+            "name": "jozefmoneta🇵🇱💯",
+            "id": 594795301,
+            "id_str": "594795301",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3351139985,
+        "id_str": "3351139985",
+        "name": "Zygfryd Tynfalski",
+        "screen_name": "ZygfrydEss",
+        "location": "wszędzie",
+        "description": "człowiek",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 206,
+        "friends_count": 212,
+        "listed_count": 2,
+        "created_at": "Mon Jun 29 20:14:52 +0000 2015",
+        "favourites_count": 15753,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28811,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/922576193597116416/FVUS7S8f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/922576193597116416/FVUS7S8f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3351139985/1527773065",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 08:51:20 +0000 2019",
+        "id": 1203960305719611400,
+        "id_str": "1203960305719611392",
+        "text": "Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A pr… https://t.co/EQYdbtREM6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EQYdbtREM6",
+              "expanded_url": "https://twitter.com/i/web/status/1203960305719611392",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 594795301,
+          "id_str": "594795301",
+          "name": "jozefmoneta🇵🇱💯",
+          "screen_name": "jozefmoneta",
+          "location": "",
+          "description": "Nie do wiary, jaki świat jest duży i jak z tego nic nie wynika.",
+          "url": "https://t.co/qBIzQwkmHL",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/qBIzQwkmHL",
+                  "expanded_url": "http://jozefmoneta.blogspot.com/p/akwarium.html",
+                  "display_url": "jozefmoneta.blogspot.com/p/akwarium.html",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 18682,
+          "friends_count": 1742,
+          "listed_count": 129,
+          "created_at": "Wed May 30 18:15:27 +0000 2012",
+          "favourites_count": 408433,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 420891,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F5F5",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/594795301/1547476088",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 53,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:15:55 +0000 2019",
+      "id": 1203981595524444200,
+      "id_str": "1203981595524444162",
+      "text": "Kubki z własnym nadrukiem.\nNadruki na odzieży, ploterowe wycinanie w folii samoprzylepnej, koszulki z własną grafik… https://t.co/XXulNsTMTt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XXulNsTMTt",
+            "expanded_url": "https://twitter.com/i/web/status/1203981595524444162",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 861308496360374300,
+        "id_str": "861308496360374272",
+        "name": "Mała Reklama",
+        "screen_name": "Mala_Reklama",
+        "location": "Warszawa, Polska",
+        "description": "Nadruki na koszulkach, znakowanie odzieży firmowej, projekty własne. Kubki z własnym zdjęciem, ploterowe wycinanie liter, napisów i kształtów.",
+        "url": "https://t.co/pLBO0BQacb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pLBO0BQacb",
+                "expanded_url": "http://www.moda-mix.pl",
+                "display_url": "moda-mix.pl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 481,
+        "friends_count": 1808,
+        "listed_count": 1,
+        "created_at": "Sun May 07 19:55:22 +0000 2017",
+        "favourites_count": 26,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 610,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1100383089757425664/K3js6HjH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100383089757425664/K3js6HjH_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/861308496360374272/1551194185",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:09:34 +0000 2019",
+      "id": 1203979996257292300,
+      "id_str": "1203979996257292289",
+      "text": "RT @jozefmoneta: Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A przecież…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jozefmoneta",
+            "name": "jozefmoneta🇵🇱💯",
+            "id": 594795301,
+            "id_str": "594795301",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4285073176,
+        "id_str": "4285073176",
+        "name": "RYSZARD #SilniRazem",
+        "screen_name": "RYSIEK4RRR",
+        "location": "POLSKA",
+        "description": "#SilniRazem",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2816,
+        "friends_count": 4995,
+        "listed_count": 11,
+        "created_at": "Thu Nov 26 11:55:42 +0000 2015",
+        "favourites_count": 151973,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1801,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/775619748415627264/jQ5zjXEo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/775619748415627264/jQ5zjXEo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4285073176/1453202655",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 08:51:20 +0000 2019",
+        "id": 1203960305719611400,
+        "id_str": "1203960305719611392",
+        "text": "Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A pr… https://t.co/EQYdbtREM6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EQYdbtREM6",
+              "expanded_url": "https://twitter.com/i/web/status/1203960305719611392",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 594795301,
+          "id_str": "594795301",
+          "name": "jozefmoneta🇵🇱💯",
+          "screen_name": "jozefmoneta",
+          "location": "",
+          "description": "Nie do wiary, jaki świat jest duży i jak z tego nic nie wynika.",
+          "url": "https://t.co/qBIzQwkmHL",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/qBIzQwkmHL",
+                  "expanded_url": "http://jozefmoneta.blogspot.com/p/akwarium.html",
+                  "display_url": "jozefmoneta.blogspot.com/p/akwarium.html",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 18682,
+          "friends_count": 1742,
+          "listed_count": 129,
+          "created_at": "Wed May 30 18:15:27 +0000 2012",
+          "favourites_count": 408433,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 420891,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F5F5",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/594795301/1547476088",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 53,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 10:08:59 +0000 2019",
+      "id": 1203979849129451500,
+      "id_str": "1203979849129451520",
+      "text": "RT @jozefmoneta: Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A przecież…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jozefmoneta",
+            "name": "jozefmoneta🇵🇱💯",
+            "id": 594795301,
+            "id_str": "594795301",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1301297094,
+        "id_str": "1301297094",
+        "name": "Robbi 🚴‍♂️🏍",
+        "screen_name": "jajacek63",
+        "location": "Dolnośląskie, Polska",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 773,
+        "friends_count": 760,
+        "listed_count": 14,
+        "created_at": "Mon Mar 25 21:58:39 +0000 2013",
+        "favourites_count": 54427,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35815,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136930294928412673/1dyxTQde_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136930294928412673/1dyxTQde_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1301297094/1534598883",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 08:51:20 +0000 2019",
+        "id": 1203960305719611400,
+        "id_str": "1203960305719611392",
+        "text": "Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A pr… https://t.co/EQYdbtREM6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EQYdbtREM6",
+              "expanded_url": "https://twitter.com/i/web/status/1203960305719611392",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 594795301,
+          "id_str": "594795301",
+          "name": "jozefmoneta🇵🇱💯",
+          "screen_name": "jozefmoneta",
+          "location": "",
+          "description": "Nie do wiary, jaki świat jest duży i jak z tego nic nie wynika.",
+          "url": "https://t.co/qBIzQwkmHL",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/qBIzQwkmHL",
+                  "expanded_url": "http://jozefmoneta.blogspot.com/p/akwarium.html",
+                  "display_url": "jozefmoneta.blogspot.com/p/akwarium.html",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 18682,
+          "friends_count": 1742,
+          "listed_count": 129,
+          "created_at": "Wed May 30 18:15:27 +0000 2012",
+          "favourites_count": 408433,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 420891,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F5F5",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/594795301/1547476088",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 53,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:49:21 +0000 2019",
+      "id": 1203974908243521500,
+      "id_str": "1203974908243521536",
+      "text": "@adammickiewitch Hymm zsrr będzie pasował idealnie, moda wraca na młot i sierp sierp  ☭",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "adammickiewitch",
+            "name": "wrr",
+            "id": 942122411859894300,
+            "id_str": "942122411859894273",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1203707544809672700,
+      "in_reply_to_status_id_str": "1203707544809672706",
+      "in_reply_to_user_id": 942122411859894300,
+      "in_reply_to_user_id_str": "942122411859894273",
+      "in_reply_to_screen_name": "adammickiewitch",
+      "user": {
+        "id": 1163863098610114600,
+        "id_str": "1163863098610114560",
+        "name": "rusałka¹²⁷",
+        "screen_name": "httpspancake",
+        "location": "Oluś to najlepsza baba",
+        "description": "❅ #𝑻𝑾𝑰𝑪𝑬 & #𝑴𝑬 : 𝘄𝗶𝗻𝘅 𝗰𝗹𝘂𝗯 !!!!  ☕\n\n ➳ 은은한 𝑚𝑖𝑙𝑘 𝑡𝑒𝑎 닮았지 ꒰⑅ᵕ༚ᵕ꒱˖♡\n\n.·:*¨༺「 #서영호 ღ #천러 ღ #채영 ღ #제니 」༻¨*:·.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1092,
+        "friends_count": 2231,
+        "listed_count": 54,
+        "created_at": "Tue Aug 20 17:19:30 +0000 2019",
+        "favourites_count": 39895,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4907,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202918687243722752/dOAHIf8D_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202918687243722752/dOAHIf8D_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163863098610114560/1575633145",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:40:55 +0000 2019",
+      "id": 1203972784000524300,
+      "id_str": "1203972784000524288",
+      "text": "RT @rozzadesign: Długie spódnice wieczorowe szyte na miarę od rozzadesign\n\nhttps://t.co/DUBYrO5UlB \n\n#rozzadesign #etsy #etsyshop #madeinPo…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "rozzadesign",
+            "indices": [
+              101,
+              113
+            ]
+          },
+          {
+            "text": "etsy",
+            "indices": [
+              114,
+              119
+            ]
+          },
+          {
+            "text": "etsyshop",
+            "indices": [
+              120,
+              129
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rozzadesign",
+            "name": "Monika Śledziak",
+            "id": 4149127997,
+            "id_str": "4149127997",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DUBYrO5UlB",
+            "expanded_url": "https://rozzadesign.blogspot.com/p/dugie-spodnice-wieczorowe-w-zakadki_28.html",
+            "display_url": "rozzadesign.blogspot.com/p/dugie-spodni…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 751874209199128600,
+        "id_str": "751874209199128576",
+        "name": "Andrew Howard",
+        "screen_name": "andrew4photos",
+        "location": "Southport, England",
+        "description": "Andrew Howard is a freelance photographer based in Southport  Specialises in fine art, landscape, architecture and flower photography.",
+        "url": "https://t.co/g65WN318JX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/g65WN318JX",
+                "expanded_url": "http://www.andrewhoward-photography.com/",
+                "display_url": "andrewhoward-photography.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4039,
+        "friends_count": 4155,
+        "listed_count": 69,
+        "created_at": "Sat Jul 09 20:22:35 +0000 2016",
+        "favourites_count": 23547,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24221,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1074743474921136128/6wD159lq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074743474921136128/6wD159lq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/751874209199128576/1545075546",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 09:00:46 +0000 2019",
+        "id": 1203962680094138400,
+        "id_str": "1203962680094138368",
+        "text": "Długie spódnice wieczorowe szyte na miarę od rozzadesign\n\nhttps://t.co/DUBYrO5UlB \n\n#rozzadesign #etsy #etsyshop… https://t.co/nQCmfxqgHv",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "rozzadesign",
+              "indices": [
+                84,
+                96
+              ]
+            },
+            {
+              "text": "etsy",
+              "indices": [
+                97,
+                102
+              ]
+            },
+            {
+              "text": "etsyshop",
+              "indices": [
+                103,
+                112
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/DUBYrO5UlB",
+              "expanded_url": "https://rozzadesign.blogspot.com/p/dugie-spodnice-wieczorowe-w-zakadki_28.html",
+              "display_url": "rozzadesign.blogspot.com/p/dugie-spodni…",
+              "indices": [
+                58,
+                81
+              ]
+            },
+            {
+              "url": "https://t.co/nQCmfxqgHv",
+              "expanded_url": "https://twitter.com/i/web/status/1203962680094138368",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                114,
+                137
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4149127997,
+          "id_str": "4149127997",
+          "name": "Monika Śledziak",
+          "screen_name": "rozzadesign",
+          "location": "Poland, EU",
+          "description": "I create custom-made women's fashion\n\nhttps://t.co/BvUXld0Jw9",
+          "url": "https://t.co/pFPwXaayzG",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/pFPwXaayzG",
+                  "expanded_url": "https://rozzadesign.blogspot.com",
+                  "display_url": "rozzadesign.blogspot.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/BvUXld0Jw9",
+                  "expanded_url": "https://www.etsy.com/shop/rozzadesign",
+                  "display_url": "etsy.com/shop/rozzadesi…",
+                  "indices": [
+                    38,
+                    61
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2332,
+          "friends_count": 1666,
+          "listed_count": 41,
+          "created_at": "Mon Nov 09 12:38:44 +0000 2015",
+          "favourites_count": 4006,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 38585,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/787981605327540224/ymdUuj4y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/787981605327540224/ymdUuj4y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4149127997/1521823189",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:36:21 +0000 2019",
+      "id": 1203971635721711600,
+      "id_str": "1203971635721711617",
+      "text": "RT @tvn24CnB: Własne pupile rodem z Afryki czy Azji mają najbogatsi i najpotężniejsi ludzie świata, ale moda na dzikość dotarła także do Po…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tvn24CnB",
+            "name": "Czarno na białym TVN24",
+            "id": 1037625006770085900,
+            "id_str": "1037625006770085889",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14493047,
+        "id_str": "14493047",
+        "name": "tvn24",
+        "screen_name": "tvn24",
+        "location": "Poland",
+        "description": "Najnowsze informacje z Polski i ze świata.",
+        "url": "http://t.co/QHnu413l3d",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/QHnu413l3d",
+                "expanded_url": "http://www.tvn24.pl",
+                "display_url": "tvn24.pl",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1370130,
+        "friends_count": 70,
+        "listed_count": 1674,
+        "created_at": "Wed Apr 23 13:12:25 +0000 2008",
+        "favourites_count": 50,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 234266,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096837330797821953/S46xxhg1_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096837330797821953/S46xxhg1_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14493047/1570885428",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 09:11:49 +0000 2019",
+        "id": 1203965463744667600,
+        "id_str": "1203965463744667648",
+        "text": "Własne pupile rodem z Afryki czy Azji mają najbogatsi i najpotężniejsi ludzie świata, ale moda na dzikość dotarła t… https://t.co/VM50q9vxEz",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/VM50q9vxEz",
+              "expanded_url": "https://twitter.com/i/web/status/1203965463744667648",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1037625006770085900,
+          "id_str": "1037625006770085889",
+          "name": "Czarno na białym TVN24",
+          "screen_name": "tvn24CnB",
+          "location": "",
+          "description": "\"Czarno na Białym\" to program, w którym pokazujemy wydarzenia takimi, jakie są. Codziennie od poniedziałku do piątku o godz. 20:30 w @tvn24. Zapraszamy!",
+          "url": "https://t.co/FMBhdVPqHm",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/FMBhdVPqHm",
+                  "expanded_url": "https://www.tvn24.pl/czarno-na-bialym,42,m",
+                  "display_url": "tvn24.pl/czarno-na-bial…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2992,
+          "friends_count": 15,
+          "listed_count": 16,
+          "created_at": "Thu Sep 06 08:54:14 +0000 2018",
+          "favourites_count": 0,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 383,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1171043473161633792/jHBLCSDr_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171043473161633792/jHBLCSDr_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1037625006770085889/1568032482",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:28:50 +0000 2019",
+      "id": 1203969746506571800,
+      "id_str": "1203969746506571777",
+      "text": "RT @jozefmoneta: Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A przecież…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jozefmoneta",
+            "name": "jozefmoneta🇵🇱💯",
+            "id": 594795301,
+            "id_str": "594795301",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 90919640,
+        "id_str": "90919640",
+        "name": "kryształowy🌈Kamil",
+        "screen_name": "Dobroskok",
+        "location": "Wrocław (czasem Lubin,Cieszyn)",
+        "description": "Kiedyś lubiłem biegać, szczególnie maratony, teraz już tylko piszę z rzadka o piłce nożnej, tenisie a czasem nawet o polityce ;) Fan WZL AFC",
+        "url": "https://t.co/WUTqOb2AKq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WUTqOb2AKq",
+                "expanded_url": "https://twitter.com/Dobroskok",
+                "display_url": "twitter.com/Dobroskok",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 885,
+        "friends_count": 1141,
+        "listed_count": 45,
+        "created_at": "Wed Nov 18 17:48:17 +0000 2009",
+        "favourites_count": 74920,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 81505,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1157015815004282887/j4MeiAmM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157015815004282887/j4MeiAmM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90919640/1563708930",
+        "profile_link_color": "C2C2D6",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 08:51:20 +0000 2019",
+        "id": 1203960305719611400,
+        "id_str": "1203960305719611392",
+        "text": "Moda na kryminał. Książka o mafiozie, zachwyt internautów o \"królu życia\" i jeszcze zaskakująca rola wróżbity. A pr… https://t.co/EQYdbtREM6",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EQYdbtREM6",
+              "expanded_url": "https://twitter.com/i/web/status/1203960305719611392",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 594795301,
+          "id_str": "594795301",
+          "name": "jozefmoneta🇵🇱💯",
+          "screen_name": "jozefmoneta",
+          "location": "",
+          "description": "Nie do wiary, jaki świat jest duży i jak z tego nic nie wynika.",
+          "url": "https://t.co/qBIzQwkmHL",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/qBIzQwkmHL",
+                  "expanded_url": "http://jozefmoneta.blogspot.com/p/akwarium.html",
+                  "display_url": "jozefmoneta.blogspot.com/p/akwarium.html",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 18682,
+          "friends_count": 1742,
+          "listed_count": 129,
+          "created_at": "Wed May 30 18:15:27 +0000 2012",
+          "favourites_count": 408433,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 420891,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F5F5",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084816989632319493/aiZFWSQD_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/594795301/1547476088",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 53,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pl"
+    },
+    {
+      "created_at": "Mon Dec 09 09:23:40 +0000 2019",
+      "id": 1203968445785751600,
+      "id_str": "1203968445785751552",
+      "text": "RT @mikeluczak: Różnica pomiędzy przemyślanym designem a podążaniem za modą :D #design https://t.co/jB8ldHvbzg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "design",
+            "indices": [
+              79,
+              86
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mikeluczak",
+            "name": "ᴍɪᴄʜᴀᴌ ᴌᴜᴄᴢᴀᴋ ⚡️✏️",
+            "id": 847421275,
+            "id_str": "847421275",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jB8ldHvbzg",
+            "expanded_url": "https://twitter.com/enn_nafnlaus/status/1203281103341195265",
+            "display_url": "twitter.com/enn_nafnlaus/s…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pl",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 43104413,
+        "id_str": "43104413",
+        "name": "Marek ☢",
+        "screen_name": "darthwillow1",
+        "location": "",
+        "description": "Nie sympatyzuję z PO, ani z PiS. Nie mylić szczerości z chamstwem. Interesuję się fotografią, elektronicznymi gadżetami, gram w WOT, i oglądam sitcomy.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 144,
+        "friends_count": 331,
+        "listed_count": 3,
+        "created_at": "Thu May 28 13:03:43 +0000 2009",
+        "favourites_count": 7697,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9809,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1171768875853242368/bLVx4eJ8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171768875853242368/bLVx4eJ8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43104413/1498810761",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 09 09:22:35 +0000 2019",
+        "id": 1203968173432856600,
+        "id_str": "1203968173432856576",
+        "text": "Różnica pomiędzy przemyślanym designem a podążaniem za modą :D #design https://t.co/jB8ldHvbzg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "design",
+              "indices": [
+                63,
+                70
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/jB8ldHvbzg",
+              "expanded_url": "https://twitter.com/enn_nafnlaus/status/1203281103341195265",
+              "display_url": "twitter.com/enn_nafnlaus/s…",
+              "indices": [
+                71,
+                94
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pl",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 847421275,
+          "id_str": "847421275",
+          "name": "ᴍɪᴄʜᴀᴌ ᴌᴜᴄᴢᴀᴋ ⚡️✏️",
+          "screen_name": "mikeluczak",
+          "location": "Łódź, Polska",
+          "description": "#Design #Wizard, #Gamer, #Geek.  Burdened with glorious purpose. \n⚡️Some-time gamer, some-time wizard, some-time pundit\n✏️All-time graphic designer",
+          "url": "https://t.co/aqm6m9qvXP",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/aqm6m9qvXP",
+                  "expanded_url": "http://dribbble.com/mikeluczak",
+                  "display_url": "dribbble.com/mikeluczak",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 899,
+          "friends_count": 739,
+          "listed_count": 51,
+          "created_at": "Wed Sep 26 13:33:54 +0000 2012",
+          "favourites_count": 30853,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 21253,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "3A1D59",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1115210355150655489/bc5KEVy5_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115210355150655489/bc5KEVy5_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/847421275/1506540220",
+          "profile_link_color": "644598",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1203281103341195300,
+        "quoted_status_id_str": "1203281103341195265",
+        "quoted_status": {
+          "created_at": "Sat Dec 07 11:52:25 +0000 2019",
+          "id": 1203281103341195300,
+          "id_str": "1203281103341195265",
+          "text": "Design Skill: A Comparison\n\nTesla: Cutout is sized for the cable to fit inside, sheltered, and follow its contours… https://t.co/RTnk8JpHWT",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/RTnk8JpHWT",
+                "expanded_url": "https://twitter.com/i/web/status/1203281103341195265",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "metadata": {
+            "iso_language_code": "pl",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 1153476318,
+            "id_str": "1153476318",
+            "name": "Nafnlaus",
+            "screen_name": "enn_nafnlaus",
+            "location": "Á klakanum",
+            "description": "Tyl hаmynkju eff thú ketur leѕyth tettа.",
+            "url": "https://t.co/SxBjZFWpPF",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/SxBjZFWpPF",
+                    "expanded_url": "http://atashi.eaku.net/",
+                    "display_url": "atashi.eaku.net",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 923,
+            "friends_count": 31,
+            "listed_count": 14,
+            "created_at": "Wed Feb 06 09:32:24 +0000 2013",
+            "favourites_count": 10224,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5709,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1183797956937506817/iDpp410G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183797956937506817/iDpp410G_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153476318/1571174715",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1935,
+          "favorite_count": 7943,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pl"
+      },
+      "is_quote_status": true,
+      "quoted_status_id": 1203281103341195300,
+      "quoted_status_id_str": "1203281103341195265",
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pl"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.121,
+    "max_id": 1203992771448754200,
+    "max_id_str": "1203992771448754176",
+    "next_results": "?max_id=1203968445785751551&q=moda&lang=pl&include_entities=1",
+    "query": "moda",
+    "refresh_url": "?since_id=1203992771448754176&q=moda&lang=pl&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
